@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="32" failures="0" name="FinalProjectTask1.ShapeTest" time="0.097" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="11.0.11+9-LTS-194"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-11.0.11\bin"/>
+    <property name="user.country.format" value="PK"/>
+    <property name="maven.multiModuleProjectDirectory" value="D:\Hasin\Programs\FinalProject"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="test" value="FinalProjectTask1.ShapeTest"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="D:\Hasin\Programs\FinalProject"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="java.runtime.version" value="11.0.11+9-LTS-194"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\hasin\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-12.0\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\..\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-11.0.11\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-11.0.11\bin;C:\Program Files\apache-ant-1.10.10-bin\bin;C:\Users\hasin\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="maven.conf" value="C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\../conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="55.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\..\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\hasin"/>
+    <property name="user.timezone" value="Asia/Karachi"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="11"/>
+    <property name="user.name" value="hasin"/>
+    <property name="java.class.path" value="C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\..\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="11"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dtest=FinalProjectTask1.ShapeTest -Dmaven.ext.class.path=C:\Program Files\NetBeans-12.0\netbeans\java\maven-nblib\netbeans-eventspy.jar -Dfile.encoding=UTF-8 surefire:test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-11.0.11"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="11.0.11"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\NetBeans-12.0\netbeans\java\maven\bin\.."/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2021-04-20"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.vendor.version" value="18.9"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetShapeTypeSphere" time="0.002"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetRadiusSphere" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetSurfaceAreaCylinder" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetVolumeSphere" time="0.001"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetShapeTypeCylinder" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetRadiusCylinder" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetVolumeCylinder" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testToStringCylinder" time="0.068"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetSurfaceAreaCuboid" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetVolumeCuboid" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetShapeTypeCuboid" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetHeightCylinder" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetSurfaceAreaSphere" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testCompareTo" time="0.001"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testCompare" time="0.001"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testEquals" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testToStringSphere" time="0.019"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetIdSphere" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetVolumeCube" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetIdCube" time="0.005"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetHeightCube" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetBreadthCube" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetLengthCube" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetIdCuboid" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testToStringCuboid" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testToStringCube" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetIdCylinder" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetHeightCuboid" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetShapeTypeCube" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetSurfaceAreaCube" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetLengthCuboid" time="0"/>
+  <testcase classname="FinalProjectTask1.ShapeTest" name="FinalProjectTask1.ShapeTest.testGetBreadthCuboid" time="0"/>
+</testsuite>
